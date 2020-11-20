@@ -16,7 +16,7 @@
 
 [如何提高个人信息素养](https://wenku.baidu.com/view/4df8f3dcd15abe23482f4d79.html)
 
-`print"hello,markdown"`
+`print("hello,markdown")`
 
 ```python
 num=int(input("请输入一个数字："))
